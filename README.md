@@ -1,6 +1,6 @@
 # ASHWAZ | Full Stack Brutalist Portfolio
 
-![Portfolio Banner](assets/images/og_icon.png)
+![Portfolio Banner](assets/images/og_icon.jpeg)
 
 A bold, unapologetically raw portfolio built with **NeoBrutalist design principles**. No minimalism. No boring grays. Just pure personality and code.
 
